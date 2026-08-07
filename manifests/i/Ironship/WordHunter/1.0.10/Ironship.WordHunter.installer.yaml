@@ -25,6 +25,6 @@ InstallationMetadata:
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/Ironship/WordHunter/releases/download/WordHunter1.0.10/Word.Hunter.Setup.exe
-  InstallerSha256: 45CD4FFE825362BDF36F44B479F9EB91D8EE23B44B5218CFDD109C12DC4ACB02
+  InstallerSha256: 5677558E44C051EA7C5904767FDA42471E0642F7B105715F3CBC3AA82C435C3B
 ManifestType: installer
 ManifestVersion: 1.12.0
